@@ -1,22 +1,24 @@
-title: Hello, world! I'm David Freeman
+title: Alberto Niironen - Programación y Fotografía
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Blog personal de Alberto Niironen, donde comparto mis experiencias en programación y fotografía.
+  Artículos, ideas, comentarios ... todo lo que se me ocurra.
 permalink: ":title/"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://albertonii.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author: Alberto Niironen # add your name
+author-img: alberto-niironen.jpg # add your photo
+about-author: >
+  Soy Alberto Niironen, un apasionado de la programación y la fotografía. En este blog comparto mis experiencias en ambos campos.
+  Si te gusta la programación, la fotografía o simplemente quieres saber más sobre mi, este es tu sitio.
+  ¡Bienvenido!
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-github: albertonii # add your Github handle
+social-linkedin: alberto-niironen-orduña-462855204 # add your Linkedin handle
+social-email: alberto.niironen@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
